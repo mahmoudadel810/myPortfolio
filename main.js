@@ -10,7 +10,7 @@ console.log(cards);
  
 
 console.log(scrollY);
-
+ 
 //TODO - Move animations
 window.onscroll = function ()
 {
